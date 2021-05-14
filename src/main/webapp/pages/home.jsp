@@ -6,6 +6,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+        I Love Java !!!
+    <%
+        String s="Prethiv";
+       out.write("<h1>"+s.toUpperCase()+"</h1>");
+    %>
 </body>
 </html>
